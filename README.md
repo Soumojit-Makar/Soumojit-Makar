@@ -18,6 +18,6 @@ I'm open to collaborating on **Spring Boot projects**, backend development, and 
 ## 📫 Let's Connect
 Feel free to reach out to me for discussions, collaborations, or just a tech chat!  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Soumojit-Makar)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumojit-makar-a9a119304/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumojit-makar/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumojitmakar1234@gmail.com)
 
